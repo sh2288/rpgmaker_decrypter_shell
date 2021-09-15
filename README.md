@@ -1,1 +1,1 @@
-# rpgmv_decrypter_shell
+# rpgmaker_decrypter_shell
